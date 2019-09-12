@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: SpringContextIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.933 s - in SpringContextIntegrationTest
