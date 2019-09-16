@@ -1,0 +1,11 @@
+kerberos\server\KerberizedServerApp.class
+kerberos\client\KerberosClientApp.class
+kerberos\client\config\KerberosConfig.class
+kerberos\client\SampleClient.class
+kerberos\server\config\MvcConfig.class
+kerberos\server\service\DummyUserDetailsService.class
+kerberos\kdc\MiniKdcConfigBuilder.class
+kerberos\server\controller\SampleController.class
+kerberos\kdc\KerberosMiniKdc.class
+kerberos\server\config\WebSecurityConfig.class
+kerberos\client\config\AppConfig.class

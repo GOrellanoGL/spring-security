@@ -1,0 +1,4 @@
+config\SecurityConfig.class
+config\UserController.class
+config\AuthorizationServerApplication.class
+config\AuthServerConfig.class

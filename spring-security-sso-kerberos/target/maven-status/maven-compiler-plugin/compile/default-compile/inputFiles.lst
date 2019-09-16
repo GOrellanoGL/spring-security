@@ -1,0 +1,11 @@
+C:\Users\Gonzalo\Documents\workspaceDemo\spring-security\spring-security-sso-kerberos\src\main\java\kerberos\client\KerberosClientApp.java
+C:\Users\Gonzalo\Documents\workspaceDemo\spring-security\spring-security-sso-kerberos\src\main\java\kerberos\kdc\KerberosMiniKdc.java
+C:\Users\Gonzalo\Documents\workspaceDemo\spring-security\spring-security-sso-kerberos\src\main\java\kerberos\server\KerberizedServerApp.java
+C:\Users\Gonzalo\Documents\workspaceDemo\spring-security\spring-security-sso-kerberos\src\main\java\kerberos\server\service\DummyUserDetailsService.java
+C:\Users\Gonzalo\Documents\workspaceDemo\spring-security\spring-security-sso-kerberos\src\main\java\kerberos\kdc\MiniKdcConfigBuilder.java
+C:\Users\Gonzalo\Documents\workspaceDemo\spring-security\spring-security-sso-kerberos\src\main\java\kerberos\server\controller\SampleController.java
+C:\Users\Gonzalo\Documents\workspaceDemo\spring-security\spring-security-sso-kerberos\src\main\java\kerberos\client\config\AppConfig.java
+C:\Users\Gonzalo\Documents\workspaceDemo\spring-security\spring-security-sso-kerberos\src\main\java\kerberos\client\config\KerberosConfig.java
+C:\Users\Gonzalo\Documents\workspaceDemo\spring-security\spring-security-sso-kerberos\src\main\java\kerberos\client\SampleClient.java
+C:\Users\Gonzalo\Documents\workspaceDemo\spring-security\spring-security-sso-kerberos\src\main\java\kerberos\server\config\MvcConfig.java
+C:\Users\Gonzalo\Documents\workspaceDemo\spring-security\spring-security-sso-kerberos\src\main\java\kerberos\server\config\WebSecurityConfig.java
